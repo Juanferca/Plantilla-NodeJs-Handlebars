@@ -39,16 +39,16 @@ Multer: Multer es un middleware de node.js para manejo multipart/form-data, que 
 https://github.com/expressjs/multer
 
 
-## Getting Started
+## Para arrancar
 
 Clonar y npm intall
 
-### Prerequisites
+### Agradecimientos 
 
 Plantilla Generada con un poco de:
 
-Fazt: https://www.faztweb.com/
-Juan Pablo de la Torre: https://codigoconjuan.com/
-Fernando Herrera: https://www.fernando-herrera.com/#/home
+Fazt: https://www.faztweb.com.
+Juan Pablo de la Torre: https://codigoconjuan.com.
+Fernando Herrera: https://www.fernando-herrera.com/#/home.
 
 alguna cosilla más de otros que así de pronto no recuerdo.
